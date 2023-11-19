@@ -28,3 +28,21 @@ Then create an app with:
 ```
 ng new angular-starter-app
 ```
+
+# Next
+
+Create next app with:
+```
+npx create-next-app@latest
+```
+Answer with project name, whether to use TS, ESLint, Tailwind and whether to use src/, app router and custom import alias.
+
+# React
+```
+npx create-react-app my-app
+```
+
+# Vue
+```
+npm create vue@latest
+```
